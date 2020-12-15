@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="lineDoneColor">#FFB90F</color>
+    <color name="lineDefaultColor">#FFE4E1</color>
+    <color name="circleSelectColor">#FFB90F</color>
+    <color name="circleDefaultColor">#FFE4E1</color>
+    <color name="textSelectColor">#FFB90F</color>
+    <color name="textDefaultColor">#FFE4E1</color>
+    <color name="blue2">#0F4C81</color>
+    <color name="blue">#31b3e4</color>
+
+
+</resources>
