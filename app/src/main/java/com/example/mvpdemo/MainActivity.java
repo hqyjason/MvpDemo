@@ -1,6 +1,7 @@
 package com.example.mvpdemo;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.Button;
 import android.widget.TextView;
 
@@ -17,6 +18,7 @@ public class MainActivity extends AppCompatActivity implements MVPView, android.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Log.e("分支第一次提交" , "yes");
         setContentView(R.layout.activity_main);
         initView();
         mainPresentet.show();
