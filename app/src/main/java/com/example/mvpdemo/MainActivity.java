@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements MVPView, android.
         Log.e("分支第一次提交" , "yes");
         setContentView(R.layout.activity_main);
         initView();
+        Log.e("修改" , "yes");
         mainPresentet.show();
 
         
