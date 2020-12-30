@@ -22,8 +22,6 @@ public class MainActivity extends AppCompatActivity implements MVPView, android.
         setContentView(R.layout.activity_main);
         initView();
         mainPresentet.show();
-
-        
     }
 
     @Override
